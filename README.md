@@ -64,8 +64,10 @@
 </div>
 <br><br>    
 
+
+
+<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashwatvisuals&show_icons=true&locale=en" alt="shashwatvisuals" /></p>
+
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatvisuals&show_icons=true&locale=en&layout=compact" alt="shashwatvisuals" /></p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashwatvisuals&show_icons=true&locale=en" alt="shashwatvisuals" /></p>
-
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatvisuals&" alt="shashwatvisuals" /></p>
+<p align="right" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatvisuals&" alt="shashwatvisuals" /></p>
