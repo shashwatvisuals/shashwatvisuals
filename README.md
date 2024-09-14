@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on **Frontend Development**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://shashwatvisuals.github.io/](https://shashwatvisuals.github.io/)
 
