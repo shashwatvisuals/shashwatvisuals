@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/shashwa74344049" target="blank"><img src="https://img.shields.io/twitter/follow/shashwa74344049?logo=twitter&style=for-the-badge" alt="shashwa74344049" /></a> </p>
 
-- 🔭 I’m currently working on **React.js Projects**
+- 🔭 I’m currently working on **Super-app**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
