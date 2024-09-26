@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shashwatmishra466@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SGypcgmB6TKEToRqyAAxQKSttHFqsEvf/view?usp=drivesdk](https://drive.google.com/file/d/1SGypcgmB6TKEToRqyAAxQKSttHFqsEvf/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ye0R7Q3E8q403HUOa73Q3MCKTa-QYJrP/view?usp=drivesdk]
 
 - ⚡ Fun fact **I love to Cook and Playing musical Instruments like "Harmonium & Piano"**
 
