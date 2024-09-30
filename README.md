@@ -18,13 +18,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://shashwatvisuals.github.io/](https://shashwatvisuals.github.io/)
+- 👨‍💻 All of my projects are available at [CLick Here](https://shashwatvisuals.github.io/)
 
 - 💬 Ask me about **JavaScript, HTML & CSS, React.js**
 
 - 📫 How to reach me **shashwatmishra466@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ye0R7Q3E8q403HUOa73Q3MCKTa-QYJrP/view?usp=drivesdk]
+- 📄 Know about my experiences [Click here to view my Resume](https://drive.google.com/file/d/1Ye0R7Q3E8q403HUOa73Q3MCKTa-QYJrP/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love to Cook and Playing musical Instruments like "Harmonium & Piano"**
 
