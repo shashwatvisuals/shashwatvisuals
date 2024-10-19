@@ -12,6 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/shashwa74344049" target="blank"><img src="https://img.shields.io/twitter/follow/shashwa74344049?logo=twitter&style=for-the-badge" alt="shashwa74344049" /></a> </p>
 
+## My Portfolio
+Check out my [Portfolio](https://shashwatvisuals.github.io/) for more information about my work and projects.
+--
+
+
 - 🔭 I’m currently working on **Super-app**
 
 - 🌱 I’m currently learning **React.js**
