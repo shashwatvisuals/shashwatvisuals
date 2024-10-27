@@ -23,7 +23,7 @@ Check out my [Portfolio](https://shashwatvisuals.github.io/) for more informatio
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [CLick Here](https://shashwatvisuals.github.io/)
+- 👨‍💻 All of my projects are available at [CLick Here](https://github.com/shashwatvisuals?tab=repositories)
 
 - 💬 Ask me about **JavaScript, HTML & CSS, React.js**
 
