@@ -17,9 +17,9 @@ Check out my [Portfolio](https://shashwatvisuals.github.io/) for more informatio
 --
 
 
-- 🔭 I’m currently working on **Super-app**
+- 🔭 I’m currently working on **Food Delivery App**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
